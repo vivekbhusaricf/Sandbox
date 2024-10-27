@@ -1,0 +1,222 @@
+[
+    {
+        "HeaderId": "9662b94d-1b0c-5393-a49f-04cbd81fdb7b",
+        "ItemKey": "7bdd9f74-f2d6-5f3b-90ee-456ff7beb15e",
+        "CompanyName": "IBM",
+        "quantity": 8208275674.842,
+        "QUnit": "QU1",
+        "GrossAmount": 598671719199.046,
+        "CurrencyCode": "USD",
+        "ProdText": "ProdText1",
+        "Category": "Category1"
+    },
+    {
+        "HeaderId": "dd991c6e-acdf-56fd-af33-b92191fc3017",
+        "ItemKey": "9c86e8a6-7492-5e4d-ba0a-2b2a0a2cc3fb",
+        "CompanyName": "Microsoft",
+        "quantity": 8011283241.212,
+        "QUnit": "QU2",
+        "GrossAmount": 151701965136.453,
+        "CurrencyCode": "USD",
+        "ProdText": "ProdText2",
+        "Category": "Category2"
+    },
+    {
+        "HeaderId": "27619a70-4657-5951-9c98-fdd9ca902c47",
+        "ItemKey": "fcbbd6b9-43ca-5fdd-bfca-c3793c0625ed",
+        "CompanyName": "Amazon",
+        "quantity": 5725042065.605,
+        "QUnit": "QU3",
+        "GrossAmount": 564997928217.053,
+        "CurrencyCode": "USD",
+        "ProdText": "ProdText3",
+        "Category": "Category3"
+    },
+    {
+        "HeaderId": "09f0fa49-2f4d-57ca-8e96-9eb49266ea31",
+        "ItemKey": "d8e6a74a-8162-524d-aceb-a63df1b47c83",
+        "CompanyName": "FedEx",
+        "quantity": 200043921.358,
+        "QUnit": "QU4",
+        "GrossAmount": 920660079689.696,
+        "CurrencyCode": "EUR",
+        "ProdText": "ProdText4",
+        "Category": "Category4"
+    },
+    {
+        "HeaderId": "e8c14239-dd8f-5632-8281-52c2c3a33295",
+        "ItemKey": "3574ae80-b2c4-5884-9168-3dc6feca0911",
+        "CompanyName": "CompanyName5",
+        "quantity": 8540426320.396,
+        "QUnit": "QU5",
+        "GrossAmount": 111972237238.66,
+        "CurrencyCode": "CHF",
+        "ProdText": "ProdText5",
+        "Category": "Category5"
+    },
+    {
+        "HeaderId": "08fceb68-68a4-5270-83dd-3313d1f6c921",
+        "ItemKey": "f30426ff-725e-5b6b-ba46-976cabf8a126",
+        "CompanyName": "CompanyName6",
+        "quantity": 6156869370.024,
+        "QUnit": "QU6",
+        "GrossAmount": 906017084140.33,
+        "CurrencyCode": "Curr6",
+        "ProdText": "ProdText6",
+        "Category": "Category6"
+    },
+    {
+        "HeaderId": "5b848e03-6617-5738-89ee-6a06db4b2e77",
+        "ItemKey": "9495328b-f12c-55f7-af8b-ce1392a1907a",
+        "CompanyName": "CompanyName7",
+        "quantity": 8218359875.027,
+        "QUnit": "QU7",
+        "GrossAmount": 677112800767.645,
+        "CurrencyCode": "Curr7",
+        "ProdText": "ProdText7",
+        "Category": "Category7"
+    },
+    {
+        "HeaderId": "e96010e7-dc57-5bd0-9d49-7fcd5061d203",
+        "ItemKey": "125abb57-b3b1-51b7-a2d9-fe452dc8aef3",
+        "CompanyName": "Tesla",
+        "quantity": 4036879413.761,
+        "QUnit": "QU8",
+        "GrossAmount": 659796793712.303,
+        "CurrencyCode": "Curr8",
+        "ProdText": "ProdText8",
+        "Category": "Category8"
+    },
+    {
+        "HeaderId": "7c0a140d-eaab-5478-87c0-fe9957059f90",
+        "ItemKey": "b93dee2e-e79f-5688-9fa6-4ab73ccc6d12",
+        "CompanyName": "CompanyName9",
+        "quantity": 4740684048.738,
+        "QUnit": "QU9",
+        "GrossAmount": 559661516221.24,
+        "CurrencyCode": "Curr9",
+        "ProdText": "ProdText9",
+        "Category": "Category9"
+    },
+    {
+        "HeaderId": "3060143e-cdf1-542c-b411-3de091f96195",
+        "ItemKey": "92ad379c-56df-549f-9a95-eb2d9d4c17ef",
+        "CompanyName": "CompanyName10",
+        "quantity": 278951085.638,
+        "QUnit": "Q10",
+        "GrossAmount": 771346175111.83,
+        "CurrencyCode": "Cur10",
+        "ProdText": "ProdText10",
+        "Category": "Category10"
+    },
+    {
+        "HeaderId": "27990400-a047-5de3-9c69-141e7f187ca0",
+        "ItemKey": "9bb08e7c-4c6c-58c9-8fc9-613663439309",
+        "CompanyName": "CompanyName11",
+        "quantity": 1797209605.574,
+        "QUnit": "Q11",
+        "GrossAmount": 816913298098.37,
+        "CurrencyCode": "Cur11",
+        "ProdText": "ProdText11",
+        "Category": "Category11"
+    },
+    {
+        "HeaderId": "4ddba5f1-aa99-5d0b-b5a8-094b2d038ea2",
+        "ItemKey": "8f2b6323-5261-5a94-8a36-db375c307b12",
+        "CompanyName": "CompanyName12",
+        "quantity": 1076727670.151,
+        "QUnit": "Q12",
+        "GrossAmount": 584255327004.939,
+        "CurrencyCode": "Cur12",
+        "ProdText": "ProdText12",
+        "Category": "Category12"
+    },
+    {
+        "HeaderId": "ff2f4539-087b-5818-958a-e805ee241f4f",
+        "ItemKey": "c22069bf-017d-52a2-95a8-0320481ccd40",
+        "CompanyName": "CompanyName13",
+        "quantity": 7797833033.837,
+        "QUnit": "Q13",
+        "GrossAmount": 967895953916.013,
+        "CurrencyCode": "Cur13",
+        "ProdText": "ProdText13",
+        "Category": "Category13"
+    },
+    {
+        "HeaderId": "8456eba5-8d58-52ba-88bc-ab23a6a3c79f",
+        "ItemKey": "f551e550-3cf4-55c2-8be4-78b7b6096431",
+        "CompanyName": "CompanyName14",
+        "quantity": 9569246831.815,
+        "QUnit": "Q14",
+        "GrossAmount": 596045586979.016,
+        "CurrencyCode": "Cur14",
+        "ProdText": "ProdText14",
+        "Category": "Category14"
+    },
+    {
+        "HeaderId": "33c0b00a-cde1-52ad-ba9b-dbe844913d8e",
+        "ItemKey": "de3d85a1-5f5f-53df-b5de-52a00ef36e07",
+        "CompanyName": "CompanyName15",
+        "quantity": 4023306900.635,
+        "QUnit": "Q15",
+        "GrossAmount": 783470216207.206,
+        "CurrencyCode": "Cur15",
+        "ProdText": "ProdText15",
+        "Category": "Category15"
+    },
+    {
+        "HeaderId": "b5ff7fed-32e6-518b-a937-8368ace866a4",
+        "ItemKey": "6deec247-7556-5901-9977-f535e360e7f9",
+        "CompanyName": "CompanyName16",
+        "quantity": 1603561141.528,
+        "QUnit": "Q16",
+        "GrossAmount": 713388344272.971,
+        "CurrencyCode": "Cur16",
+        "ProdText": "ProdText16",
+        "Category": "Category16"
+    },
+    {
+        "HeaderId": "8284721f-8943-5172-8cfd-16bb8feba153",
+        "ItemKey": "79150730-e2f9-5400-b63d-b9ca619a9321",
+        "CompanyName": "CompanyName17",
+        "quantity": 6278190969.023,
+        "QUnit": "Q17",
+        "GrossAmount": 585336379706.859,
+        "CurrencyCode": "Cur17",
+        "ProdText": "ProdText17",
+        "Category": "Category17"
+    },
+    {
+        "HeaderId": "b978db22-dfed-5906-b439-b5483bc16cf0",
+        "ItemKey": "cda4e41d-17ff-58ab-948e-6b63ada89609",
+        "CompanyName": "CompanyName18",
+        "quantity": 3806277737.021,
+        "QUnit": "Q18",
+        "GrossAmount": 654812896857.038,
+        "CurrencyCode": "Cur18",
+        "ProdText": "ProdText18",
+        "Category": "Category18"
+    },
+    {
+        "HeaderId": "3ebdeb23-54f5-5741-9e24-a3739a80d66b",
+        "ItemKey": "951d377b-f0b9-5abc-bc44-e8c6bfadfab1",
+        "CompanyName": "CompanyName19",
+        "quantity": 4461201918.311,
+        "QUnit": "Q19",
+        "GrossAmount": 355896102963.015,
+        "CurrencyCode": "Cur19",
+        "ProdText": "ProdText19",
+        "Category": "Category19"
+    },
+    {
+        "HeaderId": "65c36d10-b130-552f-8d24-0e910c5de903",
+        "ItemKey": "ac93623d-bb95-5877-a739-dec34b651642",
+        "CompanyName": "Oracle",
+        "quantity": 272475790.698,
+        "QUnit": "Q20",
+        "GrossAmount": 531998115358.874,
+        "CurrencyCode": "Cur20",
+        "ProdText": "ProdText20",
+        "Category": "Category20"
+    }
+]
